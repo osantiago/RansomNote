@@ -1,0 +1,11 @@
+D:\Core Examples\RansomNote\bin\Debug\netcoreapp2.1\RansomNote.deps.json
+D:\Core Examples\RansomNote\bin\Debug\netcoreapp2.1\RansomNote.runtimeconfig.json
+D:\Core Examples\RansomNote\bin\Debug\netcoreapp2.1\RansomNote.runtimeconfig.dev.json
+D:\Core Examples\RansomNote\bin\Debug\netcoreapp2.1\RansomNote.dll
+D:\Core Examples\RansomNote\bin\Debug\netcoreapp2.1\RansomNote.pdb
+D:\Core Examples\RansomNote\obj\Debug\netcoreapp2.1\RansomNote.csprojAssemblyReference.cache
+D:\Core Examples\RansomNote\obj\Debug\netcoreapp2.1\RansomNote.csproj.CoreCompileInputs.cache
+D:\Core Examples\RansomNote\obj\Debug\netcoreapp2.1\RansomNote.AssemblyInfoInputs.cache
+D:\Core Examples\RansomNote\obj\Debug\netcoreapp2.1\RansomNote.AssemblyInfo.cs
+D:\Core Examples\RansomNote\obj\Debug\netcoreapp2.1\RansomNote.dll
+D:\Core Examples\RansomNote\obj\Debug\netcoreapp2.1\RansomNote.pdb
